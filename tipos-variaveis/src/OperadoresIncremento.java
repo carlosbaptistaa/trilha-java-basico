@@ -1,6 +1,6 @@
 public class OperadoresIncremento {
 
-    public static void main(String[]args) {
+    public static void main(String[] args) {
 
         int numero = 8; //gostaria que o numero incremente de 1 em 1
 
